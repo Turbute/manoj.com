@@ -1,0 +1,96 @@
+*{
+  padding:10;
+  background: #2B14E6;
+  
+}
+
+.font-style{
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  font-size:50px;
+  color:red;
+  font-family: fantasy;
+  background: greenyellow;
+}
+
+.images{
+  block-size: 90px;
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+  width: 100%;
+  max-width: 800px;
+}
+
+.sige{
+  height: 300px;
+  width: 300px;
+}
+
+.sig{
+  height: 300px;
+  width:300px;
+}
+
+.product{
+text-align: center;
+font-size: 50px;
+color:shine;
+  background: whitesmoke;
+  font-family: fantasy;
+}
+
+.produc{
+  text-align: left;
+  font-size: 56px;
+  color:black;
+  font-family: arial,sansarif;
+}
+
+.si{
+  height: 430px;
+  width: 430px;
+  
+}
+
+.cont{
+  font-family: sanserif;
+  font-size:54px;
+  color: chartreuse;
+}
+
+h2{
+  font-size: 45px;
+  color:black;
+  
+  
+}
+.pro{
+  text-align: center;
+font-size: 70px;
+color:red;
+  background: wheat;
+  font-family: fantasy;
+
+}
+.contact{
+  font-family: fantasy;
+  font-size: 65px;
+  background: dimgrey;
+  color: white;
+  text-align: center;
+}
+
+.developer{
+  text-align: right;
+  font-family: sansarif;
+  font-size: 44px;
+  letter-spacing: 1px;
+  
+}
+
+p{
+  font-size: 50px;
+  font-family: sansarif;
+}
